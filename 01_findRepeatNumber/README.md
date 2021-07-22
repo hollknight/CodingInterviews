@@ -1,11 +1,11 @@
 # 数组中重复的数字
 
-备注: 原地交换法
-来源: 剑指 Offer
-标签: 数组
-链接: https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
-难度: 简单
-题号: 03
+- 备注: 原地交换法
+- 来源: 剑指 Offer
+- 标签: 数组
+- 链接: https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
+- 难度: 简单
+- 题号: 03
 
 ### 题目描述
 
@@ -17,7 +17,7 @@
 
 **示例1：**
 
-```go
+```text
 输入：
 [2, 3, 1, 0, 2, 5, 3]
 输出：2 或 3
@@ -33,7 +33,7 @@
 
   因为题目中规定数组长度为`n`，所有数字都在`0 ~ n-1`范围内，因此我们可以将整个数组看作为一个哈希表。
 
-  ![%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97%208e276dc712e5403abec61c6c94e63902/Untitled.png](%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97%208e276dc712e5403abec61c6c94e63902/Untitled.png)
+  ![](https://pic.leetcode-cn.com/1618146573-bOieFQ-Picture0.png)
 
   遍历中，第一次遇到数字 xx 时，将其交换至索引 xx 处；而当第二次遇到数字 xx 时，一定有 nums[x] = xnums[x]=x ，此时即可得到一组重复数字。
 
