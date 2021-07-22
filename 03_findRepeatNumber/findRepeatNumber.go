@@ -1,4 +1,4 @@
-package _1_findRepeatNumber
+package _3_findRepeatNumber
 
 // hashmap法
 func findRepeatNumber1(nums []int) int {
