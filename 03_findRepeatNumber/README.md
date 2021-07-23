@@ -1,7 +1,5 @@
 # 数组中重复的数字
 
-- 备注: 原地交换法
-- 来源: 剑指 Offer
 - 标签: 数组
 - 链接: https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 - 难度: 简单
