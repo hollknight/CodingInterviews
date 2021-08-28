@@ -1,9 +1,9 @@
 # 调整数组顺序使奇数位于偶数前面
 
-标签: 双指针
-链接: https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
-难度: 简单
-题号: 21
+- 标签: 双指针
+- 链接: https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
+- 难度: 简单
+- 题号: 21
 
 ### 题目描述
 

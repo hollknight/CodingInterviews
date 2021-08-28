@@ -1,9 +1,9 @@
 # 栈的压入、弹出序列
 
-标签: 模拟
-链接: https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
-难度: 中等
-题号: 31
+- 标签: 模拟
+- 链接: https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+- 难度: 中等
+- 题号: 31
 
 ### 题目描述
 

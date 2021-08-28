@@ -1,9 +1,9 @@
 # 连续子数组的最大和
 
-标签: 动态规划
-链接: https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
-难度: 简单
-题号: 42
+- 标签: 动态规划
+- 链接: https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
+- 难度: 简单
+- 题号: 42
 
 ### 题目描述
 

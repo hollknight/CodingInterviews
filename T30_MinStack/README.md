@@ -1,9 +1,9 @@
 # 包含min函数的栈
 
-标签: 栈
-链接: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
-难度: 简单
-题号: 30
+- 标签: 栈
+- 链接: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
+- 难度: 简单
+- 题号: 30
 
 ### 题目描述
 
