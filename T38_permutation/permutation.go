@@ -1,7 +1,7 @@
 package T38_permutation
 
 func permutation(s string) []string {
-	res := []string{}
+	var res []string
 	bytes := []byte(s)
 	var dfs func(x int)
 	dfs = func(x int) {
